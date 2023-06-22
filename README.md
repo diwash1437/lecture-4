@@ -1,1 +1,2 @@
-gh repo clone diwash1437/lecture-4
+
+https://diwash1437.github.io/lecture-4/
